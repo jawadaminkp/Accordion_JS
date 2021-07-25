@@ -1,8 +1,8 @@
 body {
     background: #EFEFEF;
     padding: 105px;
-    padding-left:70px;
-    padding-right:70px;
+    padding-left:30px;
+    padding-right:30px;
 }
 
 html{
@@ -96,6 +96,11 @@ ul {
     
     a {
         font-size:5px;
+        text-align: center;
+    }
+    
+    .center {
+        border: 5px solid #FFFF00;
         text-align: center;
     }
     
